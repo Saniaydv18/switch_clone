@@ -76,7 +76,7 @@ body {
   }
 
   .keywords-bar {
-    background: #f9f6f1;
+    background: #fdf4e6;
     padding: 1rem 0;
     overflow-x: auto;
     white-space: nowrap;
@@ -128,7 +128,7 @@ body {
   }
 
   .features-section {
-    background: #e3dfc9;
+    background: linear-gradient(to right, #fde4a0,#f9c8fdf1, #b0f676);
     padding: 4rem 2rem;
     text-align: center;
   }
@@ -151,7 +151,7 @@ body {
 
   .navbar{
     height: 1042.2px;
-    background: linear-gradient(to right, #f4f0eb, #d2d6b2);
+    background: linear-gradient(to right, #fde4a0, #b0f676);
   }
   
   .features-left,
@@ -199,7 +199,7 @@ body {
     display: flex;
     justify-content: space-between;
     padding: 3rem 2rem;
-    background: #f7f6f1;
+    background: #ffffff;
     flex-wrap: wrap;
   }
   
@@ -219,7 +219,7 @@ body {
   .science-btn {
     padding: 0.5rem 1rem;
     background: none;
-    border: 1px solid #ccc;
+    border: 1px solid #cccccc;
     cursor: pointer;
     margin-top: 1rem;
   }
@@ -367,7 +367,7 @@ body {
   }
   
   .site-footer {
-    background: #f4f2e8;
+    background: #d7f486c4;
     padding: 2rem;
     font-size: 0.9rem;
   }
@@ -412,7 +412,7 @@ body {
   }
 
   .parallax-section {
-    background-image: url('your-image.jpg');
+    background-image: url('https://switchresearch.org/cdn/shop/files/selflovetwo.jpg?v=1695850457&width=533');
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
